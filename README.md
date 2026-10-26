@@ -2,7 +2,7 @@
 
 Official Windows and Android downloads for Music 4 All.
 
-- [Windows 1.2.0](https://github.com/SreerajSK990/Music-4-All-Releases/releases/download/desktop-v1.2.0/Music%204%20All%20Setup%201.2.0.exe)
+- [Windows 1.2.0](https://github.com/SreerajSK990/Music-4-All-Releases/releases/download/desktop-v1.2.0/Music.4.All.Setup.1.2.0.exe)
 - [Android 0.3.0](https://github.com/SreerajSK990/Music-4-All-Releases/releases/download/android-v0.3.0/Music4All-0.3.0.apk)
 - [All releases](https://github.com/SreerajSK990/Music-4-All-Releases/releases)
 
